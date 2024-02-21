@@ -1,2 +1,2 @@
 # dsp-labs
-Digital signal processing examples
+Digital signal processing examples.
