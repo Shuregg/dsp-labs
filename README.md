@@ -1,2 +1,7 @@
-# dsp-labs
-Digital signal processing examples
+# Digital signal processing examples
+## lab1. Noise-like signals
+### Автомат генерации M-последовательностей
+М-последовательность можно получить при помощи сдвигового регистра с линейной обратной связью (LFSR - linear-feedback shift register) Обобщенная схема LFSR представлена на рисунке 1.
+![Рисунок 1. Схема сдвигового регистра с обратной связью (реализация Фибоначчи [2,3])](https://github.com/Shuregg/dsp-labs/assets/47576452/e2f27874-e4ef-405f-898a-0666a398b4a9)
+
+Рисунок 1. Схема сдвигового регистра с обратной связью (реализация Фибоначчи [2,3])
